@@ -1,5 +1,10 @@
 # GAS_Sprite
 
+[**UE4 Gameplay Ability System で2Dコンボ攻撃（1/2）導入編**](https://qiita.com/O_Y_G/items/30c2d5618a3bdfbd649d)<br>
+[**UE4 Gameplay Ability System で2Dコンボ攻撃（2/2）実装編**](https://qiita.com/O_Y_G/items/70ae6f353d06de54d1c1)
+
+の記事の作業完了データです。
+
 UE4 Gameplay Ability System をPaperCharacterに適応して、コンボ攻撃を実装したプロジェクトデータ。
 
 ## Download
